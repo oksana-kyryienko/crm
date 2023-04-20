@@ -1,0 +1,19 @@
+.btn-google {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  color: #444;
+}
+
+.btn-google:hover {
+  background-color: #f7f7f7;
+  color: #222;
+}
+
+.fab.fa-google {
+  margin-right: 5px;
+}
+
+.btn-google .svg-inline--fa {
+  color: #DB4437;
+}
+
