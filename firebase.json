@@ -1,18 +1,16 @@
-
-
 {
   "hosting": {
-    "headers": [
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
       {
-        "source": "/__/firebase/*",
-        "headers": [
-          {
-            "key": "Content-Type",
-            "value": "application/javascript"
-          }
-        ]
+        "source": "**",
+        "destination": "/index.html"
       }
     ]
   }
 }
-

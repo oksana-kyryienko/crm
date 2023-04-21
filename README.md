@@ -1,4 +1,4 @@
-[DEMO LINK](https://github.com/oksana-kyryienko/crm/)
+[DEMO LINK](https://crm-for-shipping.web.app)
 
 A small CRM, for passenger transportation, in which there will be several roles, such as: passenger, driver and manager (dispatcher).
 
